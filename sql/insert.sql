@@ -1,0 +1,33 @@
+INSERT INTO books (title, author, country, year, price, quantity)
+VALUES 
+    ('The little Prince', 'Antoine de Saint-Exupéry', 'France', 1943, 9.99, 6),
+    ('The flowers of Evil', 'Baudelaire', 'France', 1857, 12.99, 7),
+    ('In search of lost time', 'Marcel Proust', 'France', 1922, 11.00, 4),
+    ('The Stranger', 'Albert Camus', 'France', 1942, 5.99, 1),
+    ('The count of Monte Cristo', 'Alexandre Dumas', 'France', 1846, 12.99, 3)
+    ('1984', 'George Owell', 'English', 1949, 2.99, 3),
+    ('Harry Potter', 'J.K. Rowling', 'England', 1997, 12.99, 10),
+    ('Brave new word', 'Aldous Huxley', 'English', 1932, 9.99, 4),
+    ('Lord of the Flies', 'William Golding', 'English', 1954, 9.99, 0),
+    ('To Kill a Mockingbird', 'Harper Lee', 'English', 1960, 9.99, 9),
+    ('A Clockwork Orange', 'Anthony Burgess', 'English', 1962, 9.99, 12),
+    ('Don Quixote', 'Miguel de Cervantes', 'Spain', 1605, 13.99, 4),
+    ('The Hand of Fatima', 'Ildefonso Falcones', 'Spain', 2009, 16.99, 0),
+    ('The House of Bernarda Alba', 'Federico García Lorca', 'Spain', 1945, 24.99,2)
+    ('The Alchemist', 'Paul Coelho', 'Brazil', 1988, 19.99, 9),
+    ('The house of the Spirits', 'Isabel Allende', 'Chile', 1982, 29.99, 12),
+    ('The Bad Girl', 'Mario Vargas', 'Peru', 2006, 18.99,4)
+    ('The Art of War', 'Sun Tzu', 'China', 5th century BC, 18.99, 4)
+    ('Spring Snow', 'Yukio Mishima', 'Japan', 1969, 34.99, 5)
+    ('The Book Thief', 'Markus Zusak', 'Germany', 2005, 15.99, 8),
+    ('The Secret River', 'Kate Grenville', 'Australia', 2005, 11.99, 6),
+    ('Xala', 'Ousmane Sembène', 'Senegal', 1973, 13.99, 3)
+    ('Pan Tadeusz', 'Adam Mickiewicz', 'Poland', 1834, 14.99, 3),
+    ('A Tale of Love and Darkness', 'Amos Oz', 'Israel', 2002, 13.99, 5),
+    ('The Prophet', 'Kahlil Gibran', 'Lebanon', 1923, 10.99, 4),
+    ('El encantador de serpientes', 'Lucy Valladares', 'Honduras', 2015, 12.99, 2);
+    ('Anne of Green Gables', 'Lucy Maud Montgomery', 'Canada', 1908, 8.99, 5),
+    ('Life of Pi', 'Yann Martel', 'Canada', 2001, 10.99, 3),
+    ('Please Look After Mom', 'Kyung-Sook Shin', 'Korea', 2008, 12.99, 4),
+    ('The Vegetarian', 'Han Kang', 'Korea', 2007, 11.99, 6),
+    ('Pachinko', 'Min Jin Lee', 'Korea', 2017, 14.99, 7);
