@@ -4,7 +4,7 @@ VALUES
     ('The flowers of Evil', 'Baudelaire', 'France', 1857, 12.99, 7),
     ('In search of lost time', 'Marcel Proust', 'France', 1922, 11.00, 4),
     ('The Stranger', 'Albert Camus', 'France', 1942, 5.99, 1),
-    ('The count of Monte Cristo', 'Alexandre Dumas', 'France', 1846, 12.99, 3)
+    ('The count of Monte Cristo', 'Alexandre Dumas', 'France', 1846, 12.99, 3),
     ('1984', 'George Owell', 'English', 1949, 2.99, 3),
     ('Harry Potter', 'J.K. Rowling', 'England', 1997, 12.99, 10),
     ('Brave new word', 'Aldous Huxley', 'English', 1932, 9.99, 4),
