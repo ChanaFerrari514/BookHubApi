@@ -10,7 +10,7 @@ These instructions will help you get a copy of the project and running on your l
 
 - Node.js 
 - npm 
-- Postman 
+- Postman or any other API testing tool.
 - PostgreSQL
 - Aminer (http://localhost:8080)
 
