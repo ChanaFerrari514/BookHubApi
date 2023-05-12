@@ -26,5 +26,7 @@ Before, starting make sure that you have postgres and adminer containers running
 
     npm install
 
+3 - Import the SQL scripts
+
 
 
