@@ -59,5 +59,11 @@ Test the API endpoints
     5. Delete a book 
     - DELETE http://localhost:4000/books/:id
 
+### Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
+
+Also feel free to create addtional routes, controllers or any other services as needed to expand the functionality of the API.
+
 
 
