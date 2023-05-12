@@ -48,7 +48,7 @@ Test the API endpoints
     - GET http://localhost:4000/books
 
     2. Retrieve a specific book by ID
-    - GET http://localhost:4000/books/:id
+    -- GET http://localhost:4000/books/:id
 
     3. Create a new book
 
