@@ -36,11 +36,11 @@ Before, starting make sure that you have postgres and adminer containers running
 
 4 - Start the server
 
-npm start
+    npm start
 
 5 - Test the API endpoints
 
-
+    • Open Postman in your browser or any other API testing tool.
 
 
 
