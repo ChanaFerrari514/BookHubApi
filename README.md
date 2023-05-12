@@ -69,7 +69,7 @@ EXTRA authentication/authorization
     // Response to the request
     {
     "success": true
-}
+    }
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
