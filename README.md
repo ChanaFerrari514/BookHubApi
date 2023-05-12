@@ -42,6 +42,17 @@ Test the API endpoints
 
     • Open Postman in your browser or any other API testing tool.
 
+    - Use these following endpoints to interact with the API:
 
+    1. Retrieve all books
+    - GET http://localhost:4000/books
+
+    2. Retrieve a specific book by ID
+    - GET http://localhost:4000/books/:id
+
+    3. Create a new book
+    - POST http://localhost:4000/books
+
+    4. Update a book 
 
 
