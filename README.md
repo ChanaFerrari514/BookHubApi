@@ -34,6 +34,10 @@ Before, starting make sure that you have postgres and adminer containers running
         - creation.sql
         - insert.sql
 
+4 - Start the server
+
+npm start
+
 
 
 
