@@ -19,7 +19,12 @@ Before, starting make sure that you have postgres and adminer containers running
 #### Installation
 
 1 - Clone the repository
-    git clone
+    git clone https://github.com/your-username/book-api
+    cd book-api
+
+2 - Install dependencies
+
+    npm install
 
 
 
