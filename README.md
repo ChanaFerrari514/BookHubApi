@@ -53,19 +53,19 @@ Test the API endpoints
 
     3. Create a new book
 
-    // POST http://localhost:4000/books
+    //POST http://localhost:4000/books
 
     4. Update a book 
 
-//PUT http://localhost:4000/books/:id
+    //PUT http://localhost:4000/books/:id
 
     5. Delete a book 
     
-// DELETE http://localhost:4000/books/:id
+    //DELETE http://localhost:4000/books/:id
 
 EXTRA authentication/authorization
 
-// POST http://localhost:3000/auth/register
+    //POST http://localhost:3000/auth/register
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
