@@ -30,7 +30,8 @@ Before, starting make sure that you have postgres and adminer containers running
 
     • Open Adminer in your browser at http://localhost:8080
     • Import the SQL scripts in the following order:
-        • `creation.sql`
+        - creation.sql
+        - insert.sql
 
 
 
