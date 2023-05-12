@@ -65,8 +65,8 @@ Test the API endpoints
 
 EXTRA authentication/authorization
 
-        //POST http://localhost:4000/auth/signup
-        // Response to the request
+    //POST http://localhost:4000/auth/signup
+    // Response to the request
         {
             "success": true
         }
