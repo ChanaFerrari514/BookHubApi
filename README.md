@@ -12,6 +12,9 @@ These instructions will help you get a copy of the project and running on your l
 - npm 
 - Postman 
 - PostgreSQL
+- Aminer
+
+Before, starting make sure that you have postgres and adminer containers running via docker-compose.
 
 #### Installation
 
