@@ -28,5 +28,8 @@ Before, starting make sure that you have postgres and adminer containers running
 
 3 - Import the SQL scripts
 
+    • Open Adminer in your browser at http://localhost:8080
+
+
 
 
