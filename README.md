@@ -54,5 +54,10 @@ Test the API endpoints
     - POST http://localhost:4000/books
 
     4. Update a book 
+    - PUT http://localhost:4000/books/:id
+
+    5. Delete a book 
+    - DELETE http://localhost:4000/books/:id
+
 
 
