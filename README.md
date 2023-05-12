@@ -66,7 +66,10 @@ Test the API endpoints
 EXTRA authentication/authorization
 
     //POST http://localhost:4000/auth/signup
-    
+    // Response to the request
+    {
+    "success": true
+}
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
