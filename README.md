@@ -38,6 +38,10 @@ Before, starting make sure that you have postgres and adminer containers running
 
 npm start
 
+5 - Test the API endpoints
+
+
+
 
 
 
