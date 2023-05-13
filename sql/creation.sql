@@ -23,5 +23,12 @@ CREATE TABLE IF NOT EXISTS books (
     quantity NUMERIC NOT NULL
 )
 
+-- TABLE DES GENRES
+DROP TABLE IF EXISTS genres;
+
+CREATE TABLE IF NOT EXISTS genres (
+    id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
+    name TEXT NOT NULL UNIQUE
+);
 
 
