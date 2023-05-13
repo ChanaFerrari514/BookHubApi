@@ -3,11 +3,13 @@ const express = require('express')
 const cookieParser = require('cookie-parser')
 const db = require('./configs/db')
 const errors = require('./misc/errors')
+const morgan = require ('morgan')
 
 const app = express()
 
 app.use(express.json())
 app.use(cookieParser())
+app.use(morgan('dev'))
 
 const routes = require('./routes')
 
