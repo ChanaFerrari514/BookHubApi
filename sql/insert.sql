@@ -31,3 +31,5 @@ VALUES
     ('Please Look After Mom', 'Kyung-Sook Shin', 'Korea', 2008, 12.99, 4),
     ('The Vegetarian', 'Han Kang', 'Korea', 2007, 11.99, 6),
     ('Pachinko', 'Min Jin Lee', 'Korea', 2017, 14.99, 7);
+
+INSERT INTO commande (commande_date,)

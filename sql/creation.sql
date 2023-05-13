@@ -7,12 +7,9 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 CREATE TABLE IF NOT EXISTS users (
     id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
     username TEXT NOT NULL UNIQUE,
-    --email TEXT NOT NULL UNIQUE,
     password TEXT NOT NULL,
     bio TEXT
-);
-
--- TABLE OF BOOKS
+)
 
 CREATE TABLE IF NOT EXISTS books (
     id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
@@ -24,13 +21,10 @@ CREATE TABLE IF NOT EXISTS books (
     quantity NUMERIC NOT NULL
 )
 
--- TABLE OF ORDER
-
 CREATE TABLE IF NOT EXISTS commande (
 id SERIAL PRIMARY KEY,
-customer_id INTEGER REFERENCES users
-        ON UPDATE CASCADE
+customer_id INTEGER REFERENCES users,
+        ON UPDATE CASCADE,
         ON DELETE SET NULL,
-order_date date NOT NULL      
-  
+order_date date NOT NULL
 );
