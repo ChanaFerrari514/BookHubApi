@@ -23,12 +23,13 @@ CREATE TABLE IF NOT EXISTS books (
     quantity NUMERIC NOT NULL
 )
 
--- TABLE DES GENRES
-DROP TABLE IF EXISTS genres;
+-- TABLE OF ORDER
 
-CREATE TABLE IF NOT EXISTS genres (
-    id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
-    name TEXT NOT NULL UNIQUE
+CREATE TABLE IF NOT EXISTS order (
+id SERIAL PRIMARY KEY,
+customer_id INTEGER REFERENCES users
+        ON UPDATE CASCADE
+        ON DELETE SET NULL,
+order_date date NOT NULL      
+  
 );
-
-
