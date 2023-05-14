@@ -33,8 +33,16 @@ VALUES
     ('Pachinko', 'Min Jin Lee', 'Korea', 2017, 14.99, 7);
 
 INSERT INTO bookstore (name, country, city, phone, address, mail) 
+('Ulysse', Canada, Montreal, +1514 843 9447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Librería La Central', Spain, Barcelona, +34 932 72 58 95, Carrer de Mallorca 237 08008, info@lacentral.com )    
 ('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
 
 
 
