@@ -45,13 +45,8 @@ INSERT INTO bookstore (name, country, city, phone, address, mail)
 ('Beijing Bookworm', China, Pekin, +86 10 6586 9507, Building 4 Nan Sanlitun Road Chaoyang District, nomail@nomail.com),
 ('Librería Nacional', Chili, Santiago, +56 2 2333 0120, Av. Providencia 2700 Providencia, info@librerianacional.cl),    
 ('Foyles', United Kingdom, London, +44 20 7437 5660, 107 Charing Cross Rd WC2H 0DT, info@foyles.co.uk),
-
-('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )      
-
-
-  
+('Tipos Infames', Spain, Madrid, +34 915 22 32 78, Calle San Joaquín 3 28004, info@tiposinfames.com),    
+('Letras Corsarias', Spain, Salamanca, +34 923 21 19 47, Calle Rúa Mayor 10 37002 , info@letrascorsarias.com )    
 
 
 
