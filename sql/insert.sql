@@ -41,33 +41,15 @@ INSERT INTO bookstore (name, country, city, phone, address, mail)
 ('Tsutaya Books', Japan, Tokyo, +81 3-5428-7551, 17-5 Sarugakucho Shibuya City 150-0033, info@tsutaya.co.jp),    
 ('Libreria Dante & Descartes', Italy, Napoli, +39 081 551 1551, Via Toledo 268 80134 NA, info@danteanddescartes.com),  
 ('Diwan Bookstore', Egypt, Cairo, +20 2 2736 2639, 159 26th July Street Zamalek, info@diwanegypt.com), 
-
-('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
-('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),
-('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
+('Type Books', Canada, Toronto, +1 416-366-8973, 883 Queen St W ON M6J 1G3, info@typebooks.ca),  
+('Beijing Bookworm', China, Pekin, +86 10 6586 9507, Building 4 Nan Sanlitun Road Chaoyang District, nomail@nomail.com),
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5,  ),    
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )      
 
 
-
-
-    Nom : Type Books
-    Pays : Canada
-    Ville : Toronto
-    Adresse : 883 Queen St W, Toronto, ON M6J 1G3
-    Téléphone : +1 416-366-8973
-    Email : info@typebooks.ca
-
-Librairie en Chine
-
-    Nom : Beijing Bookworm
-    Pays : Chine
-    Ville : Pékin
-    Adresse : Building 4, Nan Sanlitun Road, Chaoyang District, Pékin
-    Téléphone : +86 10 6586 9507
-    Email : info@
 
   
 
