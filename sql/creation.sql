@@ -25,5 +25,6 @@ CREATE TABLE IF NOT EXISTS bookstore (
   id SERIAL PRIMARY KEY,
   name TEXT NOT NULL UNIQUE,
   country TEXT NOT NULL,
-  address TEXT NOT NULL
+  address TEXT NOT NULL,
+  mail TEXT NOT NULL
 );
