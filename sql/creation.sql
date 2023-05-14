@@ -28,5 +28,7 @@ CREATE TABLE IF NOT EXISTS bookstore (
   city TEXT NOT NULL,
   phone TEXT NOT NULL,
   address TEXT NOT NULL,
-  mail TEXT NOT NULL
+  mail TEXT NOT NULL,
+  book_id UUID,
+  FOREIGN KEY (book_id) REFERENCES books(id)
 );

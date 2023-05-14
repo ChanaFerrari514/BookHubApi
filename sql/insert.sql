@@ -1,12 +1,11 @@
 INSERT INTO books (title, author, country, year, price, quantity)
 VALUES 
-    ('The little Prince', 'Antoine de Saint-Exupéry', 'France', 1943, 9.99, 6),
     ('The flowers of Evil', 'Baudelaire', 'France', 1857, 12.99, 7),
     ('In search of lost time', 'Marcel Proust', 'France', 1922, 11.00, 4),
     ('The Stranger', 'Albert Camus', 'France', 1942, 5.99, 1),
     ('The count of Monte Cristo', 'Alexandre Dumas', 'France', 1846, 12.99, 3),
     ('1984', 'George Owell', 'English', 1949, 2.99, 3),
-    ('Harry Potter', 'J.K. Rowling', 'England', 1997, 12.99, 10),
+    ('Harry Potter', 'J.K. Rowling', 'English', 1997, 12.99, 10),
     ('Brave new word', 'Aldous Huxley', 'English', 1932, 9.99, 4),
     ('Lord of the Flies', 'William Golding', 'English', 1954, 9.99, 0),
     ('To Kill a Mockingbird', 'Harper Lee', 'English', 1960, 9.99, 9),
@@ -34,20 +33,20 @@ VALUES
 
 INSERT INTO bookstore (name, country, city, phone, address, mail)
 VALUES 
-('Ulysse', Canada, Montreal, +1514 843 9447, 4176 rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
-('Librería La Central', Spain, Barcelona, +34 932 72 58 95, Carrer de Mallorca 237 08008, info@lacentral.com ),    
-('Powells Bookstore', United-States, Chicago, +1 773-955-7780, 1501 E 57th St Chicago IL 60637, info@powellschicago.com),    
-('Librería Paradiso', Honduras, Tegucigalpa, +504 2239-8757, Colonia Palmira, info@libreriaparadiso.hn),    
-('Librería El Virrey', Peru, Lima, +51 1 446-7252,Av. Larco 833 Miraflores, contacto@libreriavirrey.com ),    
-('Tsutaya Books', Japan, Tokyo, +81 3-5428-7551, 17-5 Sarugakucho Shibuya City 150-0033, info@tsutaya.co.jp),    
-('Libreria Dante & Descartes', Italy, Napoli, +39 081 551 1551, Via Toledo 268 80134 NA, info@danteanddescartes.com),  
-('Diwan Bookstore', Egypt, Cairo, +20 2 2736 2639, 159 26th July Street Zamalek, info@diwanegypt.com), 
-('Type Books', Canada, Toronto, +1 416-366-8973, 883 Queen St W M6J 1G3, info@typebooks.ca),  
-('Beijing Bookworm', China, Pekin, +86 10 6586 9507, Building 4 Nan Sanlitun Road Chaoyang District, nomail@nomail.com),
-('Librería Nacional', Chili, Santiago, +56 2 2333 0120, Av. Providencia 2700 Providencia, info@librerianacional.cl),    
-('Foyles', United Kingdom, London, +44 20 7437 5660, 107 Charing Cross Rd WC2H 0DT, info@foyles.co.uk),
-('Tipos Infames', Spain, Madrid, +34 915 22 32 78, Calle San Joaquín 3 28004, info@tiposinfames.com),    
-('Letras Corsarias', Spain, Salamanca, +34 923 21 19 47, Calle Rúa Mayor 10 37002 , info@letrascorsarias.com )    
+('Ulysse', 'Canada', 'Montreal', '+1514 843 9447', '4176 rue Saint-Denis H2W 2M5', 'st-denis@ulysse.ca'),    
+('Librería La Central', 'Spain', 'Barcelona', '+34 932 72 58 95', 'Carrer de Mallorca 237 08008', 'info@lacentral.com'),    
+('Powells Bookstore', 'United-States', Chicago, '+1 773-955-7780', '1501 E 57th St Chicago IL 60637', 'info@powellschicago.com'),    
+('Librería Paradiso', Honduras, Tegucigalpa, '+504 2239-8757', 'Colonia Palmira', 'info@libreriaparadiso.hn'),    
+('Librería El Virrey', Peru, Lima, '+51 1 446-7252', 'Av. Larco 833 Miraflores', 'contacto@libreriavirrey.com'),    
+('Tsutaya Books', Japan, Tokyo, '+81 3-5428-7551', '17-5 Sarugakucho Shibuya City 150-0033', 'info@tsutaya.co.jp'),    
+('Libreria Dante & Descartes', Italy, Napoli, '+39 081 551 1551', 'Via Toledo 268 80134 NA', 'info@danteanddescartes.com'),  
+('Diwan Bookstore', Egypt, Cairo, '+20 2 2736 2639', '159 26th July Street Zamalek', 'info@diwanegypt.com'), 
+('Type Books', Canada, Toronto, '+1 416-366-8973', '883 Queen St W M6J 1G3', 'info@typebooks.ca'),  
+('Beijing Bookworm', China, Pekin, '+86 10 6586 9507', 'Building 4 Nan Sanlitun Road Chaoyang District', 'nomail@nomail.com'),
+('Librería Nacional', Chili, Santiago, '+56 2 2333 0120', 'Av. Providencia 2700 Providencia', 'info@librerianacional.cl'),    
+('Foyles', United Kingdom, London, '+44 20 7437 5660', '107 Charing Cross Rd WC2H 0DT', 'info@foyles.co.uk'),
+('Tipos Infames', Spain, Madrid, '+34 915 22 32 78', 'Calle San Joaquín 3 28004', 'info@tiposinfames.com'),    
+('Letras Corsarias', Spain, Salamanca,'+34 923 21 19 47', 'Calle Rúa Mayor 10 37002', 'info@letrascorsarias.com');    
 
 
 
