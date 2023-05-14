@@ -16,18 +16,17 @@ CREATE TABLE IF NOT EXISTS books (
     title TEXT NOT NULL UNIQUE,
     author TEXT NOT NULL,
     country TEXT NOT NULL,
-    year TEXT NOT NULL,
+    year INTEGER NOT NULL,
     price MONEY NOT NULL,
     quantity NUMERIC NOT NULL
-)
+);
 
 CREATE TABLE IF NOT EXISTS bookstore (
   id SERIAL PRIMARY KEY,
   name TEXT NOT NULL UNIQUE,
   country TEXT NOT NULL,
   city TEXT NOT NULL,
-  phone NUMERIC NOT NULL,
+  phone TEXT NOT NULL,
   address TEXT NOT NULL,
   mail TEXT NOT NULL
-  
 );
