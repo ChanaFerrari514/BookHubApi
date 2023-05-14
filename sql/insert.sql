@@ -43,6 +43,7 @@ INSERT INTO bookstore (name, country, city, phone, address, mail)
 ('Diwan Bookstore', Egypt, Cairo, +20 2 2736 2639, 159 26th July Street Zamalek, info@diwanegypt.com), 
 ('Type Books', Canada, Toronto, +1 416-366-8973, 883 Queen St W ON M6J 1G3, info@typebooks.ca),  
 ('Beijing Bookworm', China, Pekin, +86 10 6586 9507, Building 4 Nan Sanlitun Road Chaoyang District, nomail@nomail.com),
+
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5,  ),    
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
 ('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
