@@ -33,18 +33,41 @@ VALUES
     ('Pachinko', 'Min Jin Lee', 'Korea', 2017, 14.99, 7);
 
 INSERT INTO bookstore (name, country, city, phone, address, mail) 
-('Ulysse', Canada, Montreal, +1514 843 9447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
+('Ulysse', Canada, Montreal, +1514 843 9447, 4176 rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
 ('Librería La Central', Spain, Barcelona, +34 932 72 58 95, Carrer de Mallorca 237 08008, info@lacentral.com ),    
-('Powells Bookstore', United-States, Chicago, +1 773-955-7780, 1501 E 57th St Chicago IL 60637, info@powellschicago.com )    
-('Librería Paradiso', Honduras, Tegucigalpa, +504 2239-8757, Colonia Palmira, info@libreriaparadiso.hn )    
-('Librería El Virrey', Peru, Lima, +51 1 446-7252,Av. Larco 833 Miraflores, contacto@libreriavirrey.com  )    
-('Ulysse', Canada, Montreal, +15148439447,4176 rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
-('Ulysse', Canada, Montreal, +15148439447,4176, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Powells Bookstore', United-States, Chicago, +1 773-955-7780, 1501 E 57th St Chicago IL 60637, info@powellschicago.com),    
+('Librería Paradiso', Honduras, Tegucigalpa, +504 2239-8757, Colonia Palmira, info@libreriaparadiso.hn),    
+('Librería El Virrey', Peru, Lima, +51 1 446-7252,Av. Larco 833 Miraflores, contacto@libreriavirrey.com ),    
+('Tsutaya Books', Japan, Tokyo, +81 3-5428-7551, 17-5 Sarugakucho Shibuya City 150-0033, info@tsutaya.co.jp),    
+('Libreria Dante & Descartes', Italy, Napoli, +39 081 551 1551, Via Toledo 268 80134 NA, info@danteanddescartes.com),  
+('Diwan Bookstore', Egypt, Cairo, +20 2 2736 2639, 159 26th July Street Zamalek, info@diwanegypt.com), 
+
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )    
+('Ulysse', Canada, Montreal, +15148439447, rue Saint-Denis H2W 2M5, st-denis@ulysse.ca )      
 
 
+
+
+    Nom : Type Books
+    Pays : Canada
+    Ville : Toronto
+    Adresse : 883 Queen St W, Toronto, ON M6J 1G3
+    Téléphone : +1 416-366-8973
+    Email : info@typebooks.ca
+
+Librairie en Chine
+
+    Nom : Beijing Bookworm
+    Pays : Chine
+    Ville : Pékin
+    Adresse : Building 4, Nan Sanlitun Road, Chaoyang District, Pékin
+    Téléphone : +86 10 6586 9507
+    Email : info@
 
   
 
