@@ -32,7 +32,8 @@ VALUES
     ('The Vegetarian', 'Han Kang', 'Korea', 2007, 11.99, 6),
     ('Pachinko', 'Min Jin Lee', 'Korea', 2017, 14.99, 7);
 
-INSERT INTO bookstore (name, country, city, phone, address, mail) 
+INSERT INTO bookstore (name, country, city, phone, address, mail)
+VALUES 
 ('Ulysse', Canada, Montreal, +1514 843 9447, 4176 rue Saint-Denis H2W 2M5, st-denis@ulysse.ca ),    
 ('Librería La Central', Spain, Barcelona, +34 932 72 58 95, Carrer de Mallorca 237 08008, info@lacentral.com ),    
 ('Powells Bookstore', United-States, Chicago, +1 773-955-7780, 1501 E 57th St Chicago IL 60637, info@powellschicago.com),    

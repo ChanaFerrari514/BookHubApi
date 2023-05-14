@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS users (
     username TEXT NOT NULL UNIQUE,
     password TEXT NOT NULL,
     bio TEXT
-)
+);
 
 CREATE TABLE IF NOT EXISTS books (
     id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
