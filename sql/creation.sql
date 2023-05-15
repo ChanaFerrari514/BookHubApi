@@ -1,6 +1,6 @@
 -- Supprimez les tables existantes si nécessaire
 DROP TABLE IF EXISTS users;
-DROP TABLE IF EXISTS books;
+DROP TABLE IF EXISTS books CASCADE;
 --DROP TABLE IF EXISTS bookstore;
 
 -- L'extension uuid-ossp

@@ -1,7 +1,8 @@
 
 # Books API
 
-This repository contains the code for a book API that provides information about books available in the system.
+This repository contains the code for a book API that provides information about books available in the system. 
+
 
 ### Message to my teachers
 
@@ -55,11 +56,12 @@ Before, starting make sure that you have postgres and adminer containers running
 ### Exercises
 Test the API endpoints
 
-    • Open Postman in your browser (or any other API testing tool.)
+• Open Postman in your browser (or any other API testing tool.)
 
-    - Use these following endpoints to interact with the API:
+- Use these following endpoints to interact with the API:
 
     1. Retrieve all books
+
     - GET http://localhost:4000/books
 
     2. Retrieve a specific book by ID
@@ -68,20 +70,21 @@ Test the API endpoints
 
     3. Create a new book
 
-    //POST http://localhost:4000/books
+    - POST http://localhost:4000/books
 
     4. Update a book 
 
-    //PUT http://localhost:4000/books/:id
+    - PUT http://localhost:4000/books/:id
 
     5. Delete a book 
     
-    //DELETE http://localhost:4000/books/:id
+    - DELETE http://localhost:4000/books/:id
 
-EXTRA authentication/authorization
+    6. Authentication/authorization
 
-    //POST http://localhost:4000/auth/signup
-    // Response to the request
+    - POST http://localhost:4000/auth/signup
+    
+    Response to the request
         {
             "success": true
         }
