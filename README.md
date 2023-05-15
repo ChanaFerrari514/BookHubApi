@@ -1,23 +1,26 @@
 
+# Project Status
+
+Note: This project is currently a work in progress.
 # Books API
 
 This repository contains the code for a book API that provides information about books available in the system. 
+Initially, my intention was to create an API that connects to various bookstores, specially those with limited budgets or less recognition in order to showcare the availabillity of classic or popular books. But unfortunately, I encountered difficulties with the integration of tables, which impacted the realization of my vision.
 
+# Progress 
 
-### Message to my teachers
+Here are the significant milestones accomplished to date:
 
-Dear teachers,
+- Created three tables: I successfully implemented three tables for storing relevant data. However, one of the tables is currently inactive and requires further attention to make it fully functional.(bookstore)
 
-I wanted to express my thoughts regarding the backend project that I have been working on. Although I encoutred difficulties along the way and was unable to complete it withing the given deadline, I want to assure you that my learning journey has been invaluable. 
+- Route implementation challenges: The process of connecting the files through routes presented some difficulties. Despite the challenges encountered, I managed to overcome them and establish the necessary connections for the authtication part. Not for the other tables.
 
-Throughout this project, I have face numerous challenges and stuggled with various concepts. What I mean is that the process of making mistakes, seeking help, reading documentation, and learning from those experiences has been extremely beneficial for my growth as a student. I have gained valuable knowledge and skills along the way. This project has been a catalyst for my learning, and I have in mind to continue working on it even after the deadline has passed. 
+- Authentication functionality: I have successfully implemented the authentication feature, which is now fully operational.  
 
-I would like to thank you for taking the time to look at my project. 
-And thank you for your understanding and support.
+- Future development plans: Moving forward, I intend to focus on implementing email functionality, enabling users to receive  email.
 
-Sincerely,
+- Commits: I have succesfully made a considerable number of commits hope I will reach the goal of 100 commits. 
 
-Charlyne C.F
 ## Getting Started
 
 These instructions will help you get a copy of the project and running on your local machine for testing purpose.
@@ -88,11 +91,27 @@ Test the API endpoints
         {
             "success": true
         }
-### Contributing
+### REMINDER
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
+This still a work in process.
+You will probably find issues or have suggestions for improvement, please submit an issue or a pull request.
 
 Also feel free to create addtional routes, controllers or any other services as needed to expand the functionality of the API.
+
+
+### Message to my teachers
+
+Dear teachers,
+
+I wanted to express my thoughts regarding the backend project that I have been working on. Although I encoutred difficulties along the way and was unable to complete it withing the given deadline, I want to assure you that my learning journey has been invaluable. 
+
+Throughout this project, I have face numerous challenges and stuggled with various concepts. What I mean is that the process of making mistakes, seeking help, reading documentation, and learning from those experiences has been extremely beneficial for my growth as a student. I have gained valuable knowledge and skills along the way. This project has been a catalyst for my learning, and I have in mind to continue working on it even after the deadline has passed. 
+
+I would like to thank you for taking the time and for your understanding and support.
+
+Sincerely,
+
+Charlyne C.F
 
 
 
