@@ -17,9 +17,11 @@ Here are the significant milestones accomplished to date:
 
 - Authentication functionality: I have successfully implemented the authentication feature, which is now fully operational.  
 
+- Commits: I have succesfully made a considerable number of commits hope I will reach the goal of 100 commits. 
+
 - Future development plans: Moving forward, I intend to focus on implementing email functionality, enabling users to receive  email.
 
-- Commits: I have succesfully made a considerable number of commits hope I will reach the goal of 100 commits. 
+
 
 ## Getting Started
 
