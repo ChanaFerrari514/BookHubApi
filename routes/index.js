@@ -7,7 +7,7 @@ const booksRoutes = require('./books')
 module.exports = (db) => {
     router.use('/auth', authRoutes(db)) 
     router.use('/users', usersRoutes())
-    router.use('/books', booksRoutes(db))
+    router.use('/books', bookRoutes(db))
     
     return router
 }

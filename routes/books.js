@@ -1,10 +1,6 @@
 const router = require('express').Router()
+const { getAllBooks } = requiere('../controllers/books/get-books');
 
+router.get('/', getAllBooks);
 
-const booksControllers = require('../controllers/books')
-
-module.exports = () => {
-    router.get('/', booksControllers.getBooks);
-
-    return router
-}
+module.exports = router;

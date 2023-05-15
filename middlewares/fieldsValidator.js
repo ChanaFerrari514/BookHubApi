@@ -1,4 +1,4 @@
-const errors = require('../misc/errors')
+const errors = require('../misc/errors');
 
 module.exports = (req, res, next) => {
     const { username, password } = req.body

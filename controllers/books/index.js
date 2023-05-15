@@ -1,4 +1,3 @@
 module.exports = {
-    getBooks: require('./get-books'),
+    getBooksController: require('./get-books'),
 }
-

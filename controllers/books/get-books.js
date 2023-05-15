@@ -1,11 +1,14 @@
-module.exports = () => async (req, res, next) => {
-    const { books } = res.locals
+const errors = require('../misc/errors');
+const { Book } = require('../../models');
 
-    res.status(200).json({
-        success: true,
-        data: {
-            username,
-        },
-    })
-}
-
+const getAllBooks = async (req, res) => {
+    try {
+        const books = await Book.find();
+        res.json(books);
+        } catch (error) {
+            res.status(500).json({ message:'something went wrong!'});
+        }
+    }
+module.exports = {
+    getAllBooks,
+};
