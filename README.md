@@ -15,7 +15,7 @@ Here are the significant milestones accomplished to date:
 
 - Route implementation challenges: The process of connecting the files through routes presented some difficulties. Despite the challenges encountered, I managed to overcome them and establish the necessary connections for the authtication part. Not for the other tables.
 
-- Authentication functionality: I have successfully implemented the authentication feature, which is now fully operational.  
+- Authentication functionality: I have successfully implemented the authentication feature, which is now fully operational (I hope it still works).  
 
 - Commits: I have succesfully made a considerable number of commits hope I will reach the goal of 100 commits. 
 
